@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[691],{5732:function(t,e,r){r.r(e),r.d(e,{default:function(){return a}});var n=r(7294),u=function(t){var e=t.text;return n.createElement("div",null,e)},a=function(){return n.createElement(u,{text:"yuri lee :) test"})}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-92e75b11bcbc94dc8934.js.map
